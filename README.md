@@ -1,0 +1,1 @@
+This is a simple project just so I can learn some SQL and to hopefully write some code to organize my bookshelfs.
